@@ -1,0 +1,17 @@
+{
+  "name": "carbon-design-system",
+  "version": "0.1.0",
+  "description": "Agent skills for using IBM Carbon Design System foundations, product patterns, and official @carbon packages.",
+  "author": {
+    "name": "Carbon Design System Skills Contributors"
+  },
+  "homepage": "https://github.com/leesum-in/carbon-design-system-skills",
+  "repository": "https://github.com/leesum-in/carbon-design-system-skills",
+  "license": "MIT",
+  "keywords": [
+    "carbon-design-system",
+    "ibm-carbon",
+    "design-system",
+    "skills"
+  ]
+}

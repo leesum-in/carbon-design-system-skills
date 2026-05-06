@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carbon Icons"
+  short_description: "Use @carbon/icons UI icon assets"
+  default_prompt: "Use Carbon Icons to select and apply @carbon/icons assets consistently in this UI."

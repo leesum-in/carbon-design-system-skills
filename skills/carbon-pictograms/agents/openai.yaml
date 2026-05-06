@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carbon Pictograms"
+  short_description: "Use @carbon/pictograms assets"
+  default_prompt: "Use Carbon Pictograms to select and apply @carbon/pictograms assets consistently in this UI."

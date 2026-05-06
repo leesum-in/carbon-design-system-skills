@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carbon Themes"
+  short_description: "Use @carbon/themes semantic tokens"
+  default_prompt: "Use Carbon Themes to work with @carbon/themes semantic tokens and theme configuration."

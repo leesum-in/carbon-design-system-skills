@@ -1,0 +1,3 @@
+I am building a framework-neutral UI with @carbon/web-components.
+
+Please review the Web Components setup, custom element usage, styles and theming expectations, and how this differs from using @carbon/react.

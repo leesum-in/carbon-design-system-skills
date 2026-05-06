@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carbon Layout"
+  short_description: "Use @carbon/layout spacing tokens"
+  default_prompt: "Use Carbon Layout to work with @carbon/layout spacing and layout tokens."

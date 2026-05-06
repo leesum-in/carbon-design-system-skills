@@ -1,0 +1,26 @@
+{
+  "$schema": "https://platform.claude.com/schemas/marketplace/1.0/marketplace.schema.json",
+  "name": "carbon-design-system-skills",
+  "description": "Carbon Design System skill pack for Claude Code.",
+  "owner": {
+    "name": "Carbon Design System Skills Contributors"
+  },
+  "plugins": [
+    {
+      "name": "carbon-design-system",
+      "source": "./",
+      "description": "Agent skills for using IBM Carbon Design System foundations, product patterns, and official @carbon packages.",
+      "version": "0.1.0",
+      "category": "development",
+      "author": {
+        "name": "Carbon Design System Skills Contributors"
+      },
+      "license": "MIT",
+      "keywords": [
+        "carbon-design-system",
+        "ibm-carbon",
+        "design-system"
+      ]
+    }
+  ]
+}

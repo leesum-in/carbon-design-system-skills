@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carbon Styles"
+  short_description: "Use @carbon/styles Sass package"
+  default_prompt: "Use Carbon Styles to work with @carbon/styles Sass entrypoints and component styles."

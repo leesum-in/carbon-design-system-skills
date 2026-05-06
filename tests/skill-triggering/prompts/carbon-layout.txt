@@ -1,0 +1,3 @@
+I am using @carbon/layout for spacing tokens in a custom component library.
+
+Please review the layout scale usage, spacing token imports, component padding decisions, and how these tokens should map into our local CSS utilities.

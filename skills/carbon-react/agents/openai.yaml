@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carbon React"
+  short_description: "Build React UIs with Carbon"
+  default_prompt: "Use Carbon React to implement this React UI with @carbon/react components."

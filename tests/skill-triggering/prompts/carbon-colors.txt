@@ -1,0 +1,3 @@
+I am using the @carbon/colors package directly in a design token build.
+
+Please check the Carbon color palette imports, token naming, color role choices, and whether the values should come from @carbon/colors or a semantic theme package.

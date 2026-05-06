@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carbon Foundations"
+  short_description: "Carbon principles without packages"
+  default_prompt: "Use Carbon Foundations to design or review this interface against IBM Carbon principles."

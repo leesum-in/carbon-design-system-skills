@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carbon Grid"
+  short_description: "Use @carbon/grid 16-column layout"
+  default_prompt: "Use Carbon Grid to implement or review @carbon/grid layouts."

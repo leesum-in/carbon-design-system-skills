@@ -1,0 +1,3 @@
+I am building an internal analytics interface and want it to follow IBM Carbon Design System foundations without using official Carbon packages.
+
+Please review the layout, spacing, type scale, color usage, accessibility expectations, and grid decisions at a design-system level before I implement the UI.

@@ -1,0 +1,3 @@
+I am reviewing a Carbon toolbar with icon-only actions for edit, copy, delete, refresh, and export.
+
+Please choose appropriate Carbon icons and check the icon sizing, accessible labels, button semantics, and action pairing.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carbon Patterns"
+  short_description: "Carbon product UX patterns"
+  default_prompt: "Use Carbon Patterns to choose and apply the right Carbon product UX pattern."

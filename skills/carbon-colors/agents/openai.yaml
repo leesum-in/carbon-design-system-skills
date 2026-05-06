@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carbon Colors"
+  short_description: "Use @carbon/colors raw palettes"
+  default_prompt: "Use Carbon Colors to work with @carbon/colors palettes and raw color exports."

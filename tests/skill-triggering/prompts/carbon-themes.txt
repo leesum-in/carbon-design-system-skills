@@ -1,0 +1,3 @@
+I am using @carbon/themes to wire semantic Carbon theme tokens into a design system build.
+
+Please review the theme token imports, g10/g90/g100 choices, Sass versus JavaScript usage, and how this differs from raw @carbon/colors values.

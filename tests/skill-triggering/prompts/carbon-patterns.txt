@@ -1,0 +1,3 @@
+I need to design a Carbon product workflow for a destructive bulk delete action.
+
+Please choose the right Carbon pattern for confirmation, validation, empty states, notifications, and recovery behavior before we pick individual components.

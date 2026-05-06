@@ -1,0 +1,3 @@
+I am using @carbon/type to apply IBM Plex typography tokens in a non-React interface.
+
+Please review the type token imports, scale choices, heading and body style usage, and how to preserve Carbon typography without using Carbon components.

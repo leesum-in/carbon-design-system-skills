@@ -1,0 +1,3 @@
+I have a React application that already uses @carbon/react.
+
+Please implement a settings screen with Carbon React form controls, tabs, inline validation, and a save action while following the existing Carbon component patterns.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carbon Motion"
+  short_description: "Use @carbon/motion duration tokens"
+  default_prompt: "Use Carbon Motion to work with @carbon/motion curves, durations, and choreography."

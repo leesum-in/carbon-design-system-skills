@@ -1,0 +1,3 @@
+I am evaluating @carbon/elements as the source package for IBM Design Language assets.
+
+Please explain which element resources it covers, how it relates to color, type, icons, layout, and when a narrower @carbon package would be a better fit.

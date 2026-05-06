@@ -1,0 +1,3 @@
+I am using @carbon/motion to standardize transitions in a Carbon-aligned product UI.
+
+Please review the productive and expressive motion imports, easing choices, duration usage, and when motion should be reduced or avoided for accessibility.

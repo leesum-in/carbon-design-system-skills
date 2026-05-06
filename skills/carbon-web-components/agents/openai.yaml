@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carbon Web Components"
+  short_description: "Use @carbon/web-components"
+  default_prompt: "Use Carbon Web Components to implement this UI with @carbon/web-components."

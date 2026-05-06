@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carbon Elements"
+  short_description: "Use @carbon/elements umbrella package"
+  default_prompt: "Use Carbon Elements to work with @carbon/elements and choose the right element package."

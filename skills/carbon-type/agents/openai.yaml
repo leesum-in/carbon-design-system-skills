@@ -1,0 +1,4 @@
+interface:
+  display_name: "Carbon Type"
+  short_description: "Use @carbon/type IBM Plex tokens"
+  default_prompt: "Use Carbon Type to work with @carbon/type typography tokens and IBM Plex styles."

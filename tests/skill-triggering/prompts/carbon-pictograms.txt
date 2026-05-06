@@ -1,0 +1,3 @@
+I am using @carbon/pictograms for product illustrations in a Carbon-aligned onboarding flow.
+
+Please choose appropriate pictograms, review sizing and visual storytelling usage, and explain how pictograms should differ from actionable Carbon icons.

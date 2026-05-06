@@ -1,0 +1,41 @@
+{
+  "name": "carbon-design-system",
+  "version": "0.1.0",
+  "description": "Agent skills for using IBM Carbon Design System foundations, product patterns, and official @carbon packages.",
+  "author": {
+    "name": "Carbon Design System Skills Contributors",
+    "email": "",
+    "url": ""
+  },
+  "homepage": "",
+  "repository": "",
+  "license": "MIT",
+  "keywords": [
+    "carbon-design-system",
+    "ibm-carbon",
+    "codex-skills",
+    "design-system"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Carbon Design System",
+    "shortDescription": "Use IBM Carbon with agent-ready skills.",
+    "longDescription": "A skill pack for agents that need to apply IBM Carbon Design System foundations, follow Carbon product UX patterns, or use official @carbon packages.",
+    "developerName": "Carbon Design System Skills Contributors",
+    "category": "Development",
+    "capabilities": [
+      "Design",
+      "Code",
+      "Review"
+    ],
+    "websiteURL": "",
+    "privacyPolicyURL": "",
+    "termsOfServiceURL": "",
+    "defaultPrompt": [
+      "Use Carbon Foundations to review this interface against IBM Carbon principles.",
+      "Use Carbon React to implement this UI with @carbon/react.",
+      "Use Carbon Patterns to choose the right product UX pattern."
+    ],
+    "brandColor": "#0F62FE"
+  }
+}

@@ -1,0 +1,3 @@
+I am maintaining an older app that imports @carbon/styles Sass modules directly.
+
+Please review the Sass entrypoints, component style imports, theme configuration risks, and whether the app should keep using @carbon/styles or move to package-specific components.
